@@ -1,0 +1,14 @@
+name: auth0_api
+description: Auth0 Authentication and Management APIs wrapper
+version: 0.0.1
+#author: Mauricio Schneider <mauricio@schneider.xyz>
+#homepage: https://github.com/mauricioschneider/dart_auth0_api
+
+environment:
+  sdk: '>=1.0.0 <2.0.0'
+
+#dependencies:
+#  lib_name: any
+
+dev_dependencies:
+  test: '>=0.12.0 <0.13.0'
