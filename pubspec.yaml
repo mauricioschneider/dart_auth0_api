@@ -1,4 +1,4 @@
-name: auth0_api
+name: auth0
 description: Auth0 Authentication and Management APIs wrapper
 version: 0.0.1
 #author: Mauricio Schneider <mauricio@schneider.xyz>
